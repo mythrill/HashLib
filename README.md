@@ -1,4 +1,4 @@
-# HashLib-hashlib.codeplex.com-
+# HashLib 2.1 cloned from hashlib.codeplex.com
 ## Project Description
 Here you can find implementations of many hashing algorithms (including all sha3 round 2 and 3 candidates). You can hash files, streams, common types of data.
 ## Supported algorithms:
